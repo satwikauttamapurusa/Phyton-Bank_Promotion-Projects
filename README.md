@@ -1,17 +1,11 @@
-### Halo ini aku mau coba buat portofolioku ya, sejujurnya ku bingung tapi yaudah ayuk coba dulu yah.
-Aku bingung sebenernya tapi gapapa ini aku private
+**Bank Promotion Projects**
 
-<!--
-**satwikauttamapurusa/satwikauttamapurusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Background Case**: Revobank, is a European bank that provides credit cards for customers. The projects within the Card Partnership tribe, which aim to increase the usage of Revobank credit cards in partnership with various merchants. One of Revobank's partnerships is Revoshop. Over the past 6 months, Revobank implemented a new promotion for credit card users. After running the promotion, Revobank wants to know about the spending patterns of customers who are Revobank credit card users. on the other side, they want to find ways to reduce the cost of the promotion.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Objective** : 
+- Provide an overview of the promotions program
+- Identify different segments of Revobank credit card users who are Revoshop customers
+- Discover business opportunities to customize the rewards
+  
+**Summary Results** :
+- 
