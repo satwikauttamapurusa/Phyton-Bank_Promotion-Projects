@@ -1,4 +1,5 @@
-### Hi there 👋
+### Halo ini aku mau coba buat portofolioku ya, sejujurnya ku bingung tapi yaudah ayuk coba dulu yah.
+Aku bingung sebenernya tapi gapapa ini aku private
 
 <!--
 **satwikauttamapurusa/satwikauttamapurusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
